@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Hi! I’m a Full Stack Developer who specializes in the MERN stack & Python as well. I began my journey as a self taught developer but have recently shifted to studying for my Bachelors of Science in Full Stack Development at Arizona State University. If you're in need of a passionate & dedicated Jr. developer? Let’s get in touch!
+Hi! I’m a Full Stack Developer who specializes in the MERN stack & Python. I began my journey a little over a year ago as a self taught developer but have recently shifted to studying for my Bachelors of Science in Full Stack Development at Arizona State University. If you're in need of a passionate & dedicated Jr. developer? Let’s get in touch!
 
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [D'Angelo Watson](http://ComingSoon)
