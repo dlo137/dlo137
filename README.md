@@ -8,7 +8,7 @@ Hi! I’m a Full Stack Developer who specializes in the MERN stack & Python as w
 
 * 🌍  I'm based in the United States
 * 🖥️  See my portfolio at [D'Angelo Watson](http://ComingSoon)
-* ✉️  You can contact me at [developerdlo11@gmail.com](mailto:developerdlo11@gmail.com)
+* ✉️  You can contact me at [dangelo.watson252@gmail.com](mailto:developerdlo11@gmail.com)
 * 🧠  I'm learning intermediate React & Python
 
 ### Skills
