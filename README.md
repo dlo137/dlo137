@@ -10,7 +10,7 @@ Full Stack Developer
           Let’s get in touch!
 
 * 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [D'Angelo Watson](http://ComingSoon)
+* 🖥️  See my portfolio at [D'Angelo Watson](https://dangelosportfolio.com/)
 * ✉️  You can contact me at [dangelo.watson252@gmail.com](mailto:developerdlo11@gmail.com)
 * 🧠  I'm learning intermediate React & Python
 
