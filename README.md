@@ -11,7 +11,7 @@ Full Stack Developer
 
 * 🌍  I'm based in the United States
 * ✉️  You can contact me at [dangelo.watson252@gmail.com](mailto:developerdlo11@gmail.com)
-* 🧠  I'm learning intermediate React & Python
+* 🧠  React, Python, and Java
 
 ### Skills
 
