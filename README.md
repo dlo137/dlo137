@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-          Hi, I’m a Full Stack student who specializes in front-end development! Currently studying Machine Learning & IOT
+          Hi, I’m a Full Stack student who specializes in front-end development! Currently studying Machine Learning & IOT,
           I began as a self-taught developer but shifted to obtaining my Bachelor of Science in 
           Full Stack Development at Arizona State University (ASU). Need a goal oriented & dependable developer?
           Let’s get in touch!
