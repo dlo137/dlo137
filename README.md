@@ -4,14 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-          Hi, I’m a Full Stack student who specializes in front-end development! Currently studying Machine Learning & IOT,
-          I began as a self-taught developer but shifted to obtaining my Bachelor of Science in 
-          Full Stack Development at Arizona State University (ASU). Need a goal oriented & dependable developer?
-          Let’s get in touch!
+          Hi, I’m a full stack web developer who specializes in React & has worked with Python, Java, C#, Javascript, CSS, & HTML. 
 
-* 🌍  I'm based in the United States
-* ✉️  You can contact me at [dangelo.watson252@gmail.com](mailto:developerdlo11@gmail.com)
-* 🧠  React, Python, and Java
+* 🌍  I'm based in North Carolina
+* ✉️  You can contact me at [dangelo.watson1212@gmail.com](mailto:dangelo.watson1212@gmail.com)
+* 🧠  React, Java, Python, C#, Javascript, CSS, HTML
 
 ### Skills
 
