@@ -4,7 +4,7 @@ Hi 👋 My name is D'Angelo Watson
 Junior Software Developer
 -------------------------
 
-Hi, I’m a Full Stack Developer based in North Carolina with a strong passion for building clean, responsive, and functional web applications. I specialize in React, Python, and Flask, and I’m currently studying Software & Web Development to further my backend and frontend skills.
+Hi, I’m a Full Stack Developer based in North Carolina with a strong passion for building clean, responsive, and functional web applications. I specialize in React & React Native, Python, and Flask, with course experience with C++, C#, Java, & Python.
 
 🌍  I'm based in North Carolina
 🖥️  See my portfolio at [D'Angelo's Digital Portfolio](http://https://dlo137.github.io/DigitalPortfolio/)
